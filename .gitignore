@@ -1,0 +1,10 @@
+**/*.csv
+venv/
+
+build/bin
+node_modules
+frontend/dist
+
+.idea
+pnpm-lock.yaml
+package-lock.json
